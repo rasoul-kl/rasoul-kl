@@ -1,4 +1,4 @@
-## Hi there 👋..
+## Hi there 👋
 ### My Name Is Rasoul & I Am A
  ![https://img.shields.io/badge/:Front End Developer
 ](https://img.shields.io/badge/Front%20End%20Developer-blue)
